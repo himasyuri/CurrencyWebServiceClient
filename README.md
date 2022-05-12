@@ -1,7 +1,7 @@
 
 Первая страница:
 
-![Alt text] (https://github.com/himasyuri/CurrencyWebServiceClient/blob/main/ScreenShots/firstpage.PNG)
+![Image alt] (https://github.com/himasyuri/CurrencyWebServiceClient/blob/main/ScreenShots/firstpage.PNG)
 
 Вторая страница:
 
