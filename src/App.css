@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+h1 {
+  margin-top: 30;
+  text-align: center;
+}
+
+.page--wrapper {
+  margin-top: 50px;
+  display: flex;
+}
+
+.page {
+  padding: 10px;
+  border: 1px solid #AFCDE7;
+  cursor: pointer;
+}
+
+.page--current {
+  border: 2px solid #ffd001;
+  font-weight: bold;
+}

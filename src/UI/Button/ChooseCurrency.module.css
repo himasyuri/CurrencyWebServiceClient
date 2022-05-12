@@ -1,0 +1,13 @@
+.ChooseBut {
+    padding: 5px 15px;
+    color: #AFCDE7;
+    font-size: 14px;
+    background: transparent;
+    border: 1px solid #AFCDE7;
+    cursor: pointer;
+}
+
+.ChooseBut:hover{
+    background-color: #4f7494;
+    color: #fff;
+}
